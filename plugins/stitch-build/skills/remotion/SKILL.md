@@ -223,7 +223,7 @@ Create the video components following Remotion best practices:
    - Specify output format (MP4, WebM, etc.)
 
 3. **Optimization options**:
-   - Set quality level (`--quality`)
+   - Set quality level (`--crf`; use `--jpeg-quality` for frame JPEG quality)
    - Configure codec (`--codec h264` or `h265`)
    - Enable parallel rendering (`--concurrency`)
 
