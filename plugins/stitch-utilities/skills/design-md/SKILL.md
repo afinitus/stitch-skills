@@ -114,6 +114,9 @@ Explain how the UI handles layers. Describe the presence and quality of shadows 
 
 ## 5. Layout Principles
 (Description of whitespace strategy, margins, and grid alignment.)
+
+## 6. Design System Notes for Stitch Generation
+(Ready-to-copy guidance for future Stitch prompts: the descriptive language to use, color references with hex codes, and example component prompts. The `stitch-loop` skill copies this section into every baton prompt.)
 ```
 
 ## Usage Example
