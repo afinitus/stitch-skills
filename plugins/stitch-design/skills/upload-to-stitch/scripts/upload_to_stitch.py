@@ -22,11 +22,10 @@ Usage:
     python3 upload_to_stitch.py \
         --project-id <PROJECT_ID> \
         --file-path <PATH_TO_FILE> \
+        --api-key <API_KEY> \
         [--api-url <STITCH_API_BASE_URL>] \
-        [--api-key <API_KEY>] \
         [--title <SCREEN_TITLE>] \
-        [--generated-by <GENERATED_BY>] \
-        [--create-screen-instances]
+        [--generated-by <GENERATED_BY>]
 """
 
 import argparse
