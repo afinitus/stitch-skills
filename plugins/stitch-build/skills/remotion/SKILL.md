@@ -234,7 +234,7 @@ Create the video components following Remotion best practices:
 Highlight clickable elements or important features:
 
 ```tsx
-import {interpolate, useCurrentFrame} from 'remotion';
+import {spring, useCurrentFrame} from 'remotion';
 
 const Hotspot = ({x, y, label}) => {
   const frame = useCurrentFrame();
